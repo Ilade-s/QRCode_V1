@@ -13,6 +13,7 @@ Assurez-vous d'avoir toutes les dépandances dans le même dossier que le progra
 -----------
     - QR_ImgToMat.py (lecture d'image vers matrice : peut être utilisé de manière indépendante)
     - raw_data.py (extraction données QR Code)
+    - creer_qr.py (création de QR Code V1)
     - Un dossier Img_QR dans le même dossier (stockage des images de QR Code)
 
 Pour utilisation dans un autre programme, utiliser FuncLaunch(ImgName) pour un lancement sans interface ni texte
