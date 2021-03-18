@@ -9,10 +9,11 @@ Quand lancé en main, proposera une interface avec toutes les fonctionnalités d
     - Lire un 'exemple' de QR Code V1 (test programme)
     - Créer un QR Code V1
 
-Assurez-vous d'avoir toutes dépandances dans le même dossier que le programme :
+Assurez-vous d'avoir toutes les dépandances dans le même dossier que le programme :
 -----------
     - QR_ImgToMat.py (lecture d'image vers matrice : peut être utilisé de manière indépendante)
     - raw_data.py (extraction données QR Code)
+    - Un dossier Img_QR dans le même dossier (stockage des images de QR Code)
 
-Pour utlisation dans un autre programme, utiliser FuncLaunch(ImgName) pour un lancement sans interface ni texte
+Pour utilisation dans un autre programme, utiliser FuncLaunch(ImgName) pour un lancement sans interface ni texte
 -----------
